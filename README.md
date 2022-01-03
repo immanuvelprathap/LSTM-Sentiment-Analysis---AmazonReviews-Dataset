@@ -66,7 +66,7 @@ import pydot
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-![<img target="_blank" src="https://miro.medium.com/max/1400/1*-QTg-_71YF0SVshMEaKZ_g.png" width=200>]
+<img target="_blank" src="https://miro.medium.com/max/1400/1*-QTg-_71YF0SVshMEaKZ_g.png" width=200>
 
 
 ## Team
