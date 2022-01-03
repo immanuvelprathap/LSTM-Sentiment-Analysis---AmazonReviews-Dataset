@@ -1,6 +1,6 @@
 # LSTM based Sentiment Classification using Tensorflow - Amazon Reviews Rating (Dataset)
 
-[![Build Status](Open Source)
+<!-- ![Build Status] -->
 
 The dataset is from Amazon Review Data (2018) https://nijianmo.github.io/amazon/index.html.
 
