@@ -79,8 +79,7 @@ import pydot
 
 ## Team
 
-[![Immanuvel Prathap](<img target="_blank" src="https://avatars.githubusercontent.com/u/68032323?v=4" width=200>
-)](https://immanuvelprathap.in/) |
+[![Immanuvel Prathap]("https://avatars.githubusercontent.com/u/68032323?v=4" width=200](https://immanuvelprathap.in/) |
 -|
 [Immanuvel Prathap's Website - Click Here!](https://immanuvelprathap.in/) |)
 
