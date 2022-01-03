@@ -10,6 +10,7 @@ The dataset is from Amazon Review Data (2018) https://nijianmo.github.io/amazon/
 
 ## Directory Tree
 
+```
 ├── Data
 │   ├── CellPhonesRating.csv
 │   └── tokenizer.json
@@ -24,6 +25,7 @@ The dataset is from Amazon Review Data (2018) https://nijianmo.github.io/amazon/
 │   └── Preprocessing - AmazonReviews Dataset.ipynb
 ├── README.md
 └── gitattributes
+```
 
 
 ## Installation - Dependencies
