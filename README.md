@@ -7,6 +7,7 @@ The dataset is from Amazon Review Data (2018) https://nijianmo.github.io/amazon/
 - I here look at Cell Phones and Accessories review dataset for experimentation. 
 - I have pre-processed this dataset in Jupyter Notebook, please find the code in the Preprocessing Folder
 - The script for pre-processing is present here: https://github.com/immanuvelprathap/LSTM-Sentiment-Analysis-AmazonReviews-Dataset/tree/main/Preprocessing
+- The CellPhonesRating.csv is too large so i cannot upload it but please follow the pre-processing steps here: https://github.com/immanuvelprathap/LSTM-Sentiment-Analysis-AmazonReviews-Dataset/tree/main/PreprocessingDataset/tree/main/Preprocessing
 
 ## Directory Tree
 
